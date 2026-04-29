@@ -10,11 +10,13 @@ body{
 .form-control{
 	width:85%;
 	margin-left: 25px;
+	cursor: pointer;
 }
 h1{
 	font-size: 70px;
 	color: brown;
 	text-align: center;
+	cursor: pointer;
 }
 span{
 	color: aliceblue;
