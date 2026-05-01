@@ -36,11 +36,43 @@ img{
 	object-fit: cover;
 }
 
-img:hover{
+/* img:hover{
 	transform: scale(1.1);
 	/* object-fit: none; */
+/* } */
+/* 
+.images img {
+	transition: 0.3s;
 }
 
+.images:hover img {
+	filter: blur(5px);
+	transform: scale(0.9);
+}
+
+.images img:hover {
+	filter: blur(0);
+	transform: scale(1.1);
+} */
+
+
+
+/* 
+@keyframes blur {
+	from{
+		filter: blur(0px);
+	}
+	to{
+		filter: blur(10px);
+	}
+	
+} */
+
+/* .images:hover img:not(:hover){
+	transform: scale(0.9);
+	filter: blur(10px);
+
+} */
 
 .all{
 	margin: 20px;
